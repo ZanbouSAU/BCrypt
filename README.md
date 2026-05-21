@@ -1,4 +1,4 @@
-# LukasLibrary
+# BCrypt
 
 一个现代化的 C++ BCrypt 密码哈希库（Shared Library）。
 
